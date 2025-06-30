@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=globallstudent&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=globallstudent&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=globallstudent&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--
 **globallstudent/globallstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
