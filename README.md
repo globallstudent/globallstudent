@@ -13,6 +13,6 @@
 <p align="center">
   <a href="https://streak-stats.demolab.com?user=globallstudent&theme=tokyonight&hide_border=true">
     <img src="https://streak-stats.demolab.com?user=globallstudent&theme=tokyonight&hide_border=true" height="400"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=globallstudent&theme=gruvbox&hide_border=false&langs_count=8&hide=html,css" height="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=globallstudent&theme=gruvbox&hide_border=false&langs_count=8&hide=html,css,javascript,typescript" height="400"&width="500"/>
   </a>
 </p>
